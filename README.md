@@ -24,7 +24,7 @@ The goal is to solve and simulate the finite horizon model using two different a
 
 ## Parameters
 
-- Interest rate: \( r = 0.05 \)
+- Interest rate: $\( r = 0.05 \)$
 - Discount factor: \( \beta = 0.95 \)
 - Time horizon: \( T = 40 \)
 - Minimum asset levels: \( a \in \{-40, -10, 0\} \)
